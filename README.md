@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to use GitHub
 - 💞️ I’m looking to talk to you about job opportunities @SWARCO
 - 📫 How to reach me: cosima.kienzle@swarco.de
+- 🚦 Looking to find a job with purpose? Get in touch!
 
 <!---
 CosimaKie/CosimaKie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
